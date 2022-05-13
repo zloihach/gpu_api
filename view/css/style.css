@@ -1,0 +1,18 @@
+.header{
+    padding-top: 20px;
+}
+.input__group{
+    padding-top: 40px;
+    justify-content: space-between;
+    padding-bottom: 40px;
+    display: flex;
+}
+.site__name{
+    padding-top:20px;
+    text-align: center;
+    color:cornflowerblue
+}
+.button__box{
+    padding-top: 30px;
+    text-align: center;
+}
